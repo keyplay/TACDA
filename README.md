@@ -1,4 +1,11 @@
+# Target-specific Adaptation and Consistent Degradation Alignment for Cross-Domain Remaining Useful Life Prediction
+#### *by: Yubo Hou, Mohamed Ragab, Min Wu, Chee-Keong Kwoh, Xiaoli Li, Zhenghua Chen*
 
+This is a PyTorch implementation of this domain adaptation method for remaining useful Life prediction on time series data.
+
+<p align="center">
+<img src="misc/AEDA_RUL.png" width="900" class="center">
+</p>
 
 ## Requirmenets:
 - Python3.x
@@ -18,8 +25,21 @@ We used NASA turbofan engines dataset
 - Put the data in the data folder
 
 ## Train the model
-- run python pretrain_main.py 
-- run python main_cross_domains.py 
-- run python main_cross_domains_two_step.py     
+To pre train model:
+
+```
+python pretrain_main.py 
+```
+To train model for 1st round domain adaptation:
+
+```
+python main_cross_domains.py     
+```
+
+To train model for 2nd round domain adaptation:
+
+```
+python main_cross_domains_two_step.py     
+```
 
 
