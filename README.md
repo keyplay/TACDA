@@ -1,11 +1,7 @@
 # Target-specific Adaptation and Consistent Degradation Alignment for Cross-Domain Remaining Useful Life Prediction
-#### *by: Yubo Hou, Mohamed Ragab, Min Wu, Chee-Keong Kwoh, Xiaoli Li, Zhenghua Chen*
 
 This is a PyTorch implementation of this domain adaptation method for remaining useful Life prediction on time series data.
 
-<p align="center">
-<img src="misc/AEDA_RUL.png" width="900" class="center">
-</p>
 
 ## Requirmenets:
 - Python3.x
