@@ -1,4 +1,4 @@
-# Target-specific Adaptation and Consistent Degradation Alignment for Cross-Domain Remaining Useful Life Prediction
+# Target-specific Adaptation and Consistent Degradation Alignment for Cross-Domain Remaining Useful Life Prediction [[Paper](https://ieeexplore.ieee.org/document/11095376)]
 #### *by: Yubo Hou, Mohamed Ragab, Min Wu, Chee-Keong Kwoh, Xiaoli Li, Zhenghua Chen*
 #### IEEE Transactions on Automation Science and Engineering (TASE-25).
 
@@ -41,6 +41,19 @@ To train model for 2nd round domain adaptation:
 
 ```
 python main_cross_domains_two_step.py     
+```
+
+## Citation If you found this work useful for you, please consider citing it. 
+```
+@ARTICLE{11095376,
+  author={Hou, Yubo and Ragab, Mohamed and Wu, Min and Kwoh, Chee-Keong and Li, Xiaoli and Chen, Zhenghua},
+  journal={IEEE Transactions on Automation Science and Engineering}, 
+  title={Target-specific Adaptation and Consistent Degradation Alignment for Cross-Domain Remaining Useful Life Prediction}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TASE.2025.3590839}}
 ```
 
 
