@@ -2,7 +2,7 @@
 #### *by: Yubo Hou, Mohamed Ragab, Min Wu, Chee-Keong Kwoh, Xiaoli Li, Zhenghua Chen*
 #### IEEE Transactions on Automation Science and Engineering (TASE-25).
 
-This is a PyTorch implementation of this domain adaptation method for remaining useful Life prediction on time series data.
+This is a PyTorch implementation of this domain adaptation method for remaining useful life prediction on time series data.
 
 ## Abstract
 <img src="TACDA.png" width="1000">
