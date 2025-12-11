@@ -43,7 +43,7 @@ To train model for 2nd round domain adaptation:
 python main_cross_domains_two_step.py     
 ```
 
-## Citation If you found this work useful for you, please consider citing it. 
+## Citation if you found this work useful for you, please consider citing it. 
 ```
 @ARTICLE{11095376,
   author={Hou, Yubo and Ragab, Mohamed and Wu, Min and Kwoh, Chee-Keong and Li, Xiaoli and Chen, Zhenghua},
